@@ -1,0 +1,10 @@
+C:\Users\Unity\source\repos\Billiards\bin\Debug\Billiards.exe.config
+C:\Users\Unity\source\repos\Billiards\bin\Debug\Billiards.exe
+C:\Users\Unity\source\repos\Billiards\bin\Debug\Billiards.pdb
+C:\Users\Unity\source\repos\Billiards\bin\Debug\TestingRoom.dll
+C:\Users\Unity\source\repos\Billiards\obj\Debug\Billiards.csproj.AssemblyReference.cache
+C:\Users\Unity\source\repos\Billiards\obj\Debug\Billiards.csproj.SuggestedBindingRedirects.cache
+C:\Users\Unity\source\repos\Billiards\obj\Debug\Billiards.csproj.CoreCompileInputs.cache
+C:\Users\Unity\source\repos\Billiards\obj\Debug\Billiards.csproj.CopyComplete
+C:\Users\Unity\source\repos\Billiards\obj\Debug\Billiards.exe
+C:\Users\Unity\source\repos\Billiards\obj\Debug\Billiards.pdb
